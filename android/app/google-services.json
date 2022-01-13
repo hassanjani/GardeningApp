@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "352604973989",
+    "project_id": "puchong-494bb",
+    "storage_bucket": "puchong-494bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352604973989:android:7d8e683eac49f6534cd64c",
+        "android_client_info": {
+          "package_name": "com.hassankhan.puchong"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352604973989-imdd56epdhpcqg1hrg9mv028j8mh0m74.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFjAw1zegnBv6EnZxnFyfrdTUMrRRFBeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352604973989-imdd56epdhpcqg1hrg9mv028j8mh0m74.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
